@@ -1,1 +1,4 @@
 # credential-api
+
+Transaction deployment
+https://berkeley.minaexplorer.com/transaction/5JtnJErcNRqif98yCBAZnH6NCo5qj4qCc19iVEgri9QNbwd9PWeX
